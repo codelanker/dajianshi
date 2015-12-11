@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: ffe081bba2f80d44c82dd6849331050d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: AK47
+    100002: B_Head
+    100004: B_L_Calf
+    100006: B_L_Finger0
+    100008: B_L_Finger01
+    100010: B_L_Finger1
+    100012: B_L_Finger11
+    100014: B_L_Foot
+    100016: B_L_Forearm
+    100018: B_L_Hand
+    100020: B_L_Thigh
+    100022: B_L_UpperArm
+    100024: B_Pelvis
+    100026: B_Prop1
+    100028: B_R_Calf
+    100030: B_R_Finger0
+    100032: B_R_Finger01
+    100034: B_R_Finger1
+    100036: B_R_Finger11
+    100038: B_R_Foot
+    100040: B_R_Forearm
+    100042: B_R_Hand
+    100044: B_R_Thigh
+    100046: B_R_UpperArm
+    100048: B_Spine
+    100050: B_Spine1
+    100052: Bip01
+    100054: Bip01 Footsteps
+    100056: Bip01 Head
+    100058: Bip01 HeadNub
+    100060: Bip01 L Calf
+    100062: Bip01 L Clavicle
+    100064: Bip01 L Finger0
+    100066: Bip01 L Finger01
+    100068: Bip01 L Finger0Nub
+    100070: Bip01 L Finger1
+    100072: Bip01 L Finger11
+    100074: Bip01 L Finger1Nub
+    100076: Bip01 L Foot
+    100078: Bip01 L Forearm
+    100080: Bip01 L Hand
+    100082: Bip01 L Thigh
+    100084: Bip01 L Toe0
+    100086: Bip01 L Toe0Nub
+    100088: Bip01 L UpperArm
+    100090: Bip01 Neck
+    100092: Bip01 Pelvis
+    100094: Bip01 Prop1
+    100096: Bip01 R Calf
+    100098: Bip01 R Clavicle
+    100100: Bip01 R Finger0
+    100102: Bip01 R Finger01
+    100104: Bip01 R Finger0Nub
+    100106: Bip01 R Finger1
+    100108: Bip01 R Finger11
+    100110: Bip01 R Finger1Nub
+    100112: Bip01 R Foot
+    100114: Bip01 R Forearm
+    100116: Bip01 R Hand
+    100118: Bip01 R Thigh
+    100120: Bip01 R Toe0
+    100122: Bip01 R Toe0Nub
+    100124: Bip01 R UpperArm
+    100126: Bip01 Spine
+    100128: Bip01 Spine1
+    100130: Chaingun
+    100132: Mesh_Soldier_A
+    100134: MissileLauncher
+    100136: PositionLocator
+    100138: //RootNode
+    100140: USP
+    400000: AK47
+    400002: B_Head
+    400004: B_L_Calf
+    400006: B_L_Finger0
+    400008: B_L_Finger01
+    400010: B_L_Finger1
+    400012: B_L_Finger11
+    400014: B_L_Foot
+    400016: B_L_Forearm
+    400018: B_L_Hand
+    400020: B_L_Thigh
+    400022: B_L_UpperArm
+    400024: B_Pelvis
+    400026: B_Prop1
+    400028: B_R_Calf
+    400030: B_R_Finger0
+    400032: B_R_Finger01
+    400034: B_R_Finger1
+    400036: B_R_Finger11
+    400038: B_R_Foot
+    400040: B_R_Forearm
+    400042: B_R_Hand
+    400044: B_R_Thigh
+    400046: B_R_UpperArm
+    400048: B_Spine
+    400050: B_Spine1
+    400052: Bip01
+    400054: Bip01 Footsteps
+    400056: Bip01 Head
+    400058: Bip01 HeadNub
+    400060: Bip01 L Calf
+    400062: Bip01 L Clavicle
+    400064: Bip01 L Finger0
+    400066: Bip01 L Finger01
+    400068: Bip01 L Finger0Nub
+    400070: Bip01 L Finger1
+    400072: Bip01 L Finger11
+    400074: Bip01 L Finger1Nub
+    400076: Bip01 L Foot
+    400078: Bip01 L Forearm
+    400080: Bip01 L Hand
+    400082: Bip01 L Thigh
+    400084: Bip01 L Toe0
+    400086: Bip01 L Toe0Nub
+    400088: Bip01 L UpperArm
+    400090: Bip01 Neck
+    400092: Bip01 Pelvis
+    400094: Bip01 Prop1
+    400096: Bip01 R Calf
+    400098: Bip01 R Clavicle
+    400100: Bip01 R Finger0
+    400102: Bip01 R Finger01
+    400104: Bip01 R Finger0Nub
+    400106: Bip01 R Finger1
+    400108: Bip01 R Finger11
+    400110: Bip01 R Finger1Nub
+    400112: Bip01 R Foot
+    400114: Bip01 R Forearm
+    400116: Bip01 R Hand
+    400118: Bip01 R Thigh
+    400120: Bip01 R Toe0
+    400122: Bip01 R Toe0Nub
+    400124: Bip01 R UpperArm
+    400126: Bip01 Spine
+    400128: Bip01 Spine1
+    400130: Chaingun
+    400132: Mesh_Soldier_A
+    400134: MissileLauncher
+    400136: PositionLocator
+    400138: //RootNode
+    400140: USP
+    2300000: AK47
+    2300002: Chaingun
+    2300004: MissileLauncher
+    2300006: USP
+    3300000: AK47
+    3300002: Chaingun
+    3300004: MissileLauncher
+    3300006: USP
+    4300000: Mesh_Soldier_A
+    4300002: AK47
+    4300004: MissileLauncher
+    4300006: USP
+    4300008: Chaingun
+    7400000: Take 001
+    11100000: //RootNode
+    13700000: Mesh_Soldier_A
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 2
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
